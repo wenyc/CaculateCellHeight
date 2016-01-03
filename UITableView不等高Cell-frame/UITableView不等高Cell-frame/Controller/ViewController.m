@@ -15,7 +15,6 @@ static NSString *const kYCStatusCellID = @"YCStatusCell";
 @interface ViewController ()
 
 @property (nonatomic, strong) NSMutableArray *statusModels;
-@property (nonatomic, assign) NSInteger tempCount;
 
 @end
 
